@@ -5,4 +5,5 @@ This is a repository of all coding projects I have worked on over the past sever
 - LiDAR based Collision Avoidance System for bicycles (Arduino files, .ino)
 - Complex plane conformal mapping visualisation (Python, .py)
 - 3-sided coin mechanical simulation (JavaScript, .js)
-- GMAT mission trajectory (Executable, .exe)
+- GMAT mission trajectory (Hohmann Transfer copied)
+- COVID hotspot mapping project (R, .r)
