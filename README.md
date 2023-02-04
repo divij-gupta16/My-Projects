@@ -7,4 +7,4 @@ This is a repository of all coding projects I have worked on over the past sever
 - 3-sided coin mechanical simulation (JavaScript, .js)
 - GMAT mission trajectory (Hohmann Transfer copied)
 - COVID hotspot mapping project (R, .r)
-- Quantum wavefunction simulations (Python, )
+- Quantum wavefunction simulations (Python, 'Dissipative Psi.py', )
