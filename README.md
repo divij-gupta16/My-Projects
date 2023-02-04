@@ -8,4 +8,4 @@ This is a repository of all coding projects I have worked on over the past sever
 - GMAT mission trajectory (Hohmann Transfer copied)
 - COVID hotspot mapping project (R, .r)
 - Quantum wavefunction simulations (Python: 'Dissipative Psi.py', 'Wavefunction Animation 1.0.py')
-- XCode Apps (Swift, .swift)
+- Card War Game for iOS (Swift, .swift)
